@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zeroPointZeroFiveDP">0.05dp</dimen>
+    <dimen name="zeroPointOneDP">0.1dp</dimen>
+    <dimen name="zeroPointFiveDP">0.5dp</dimen>
+    <dimen name="zeroPointEightDP">0.8dp</dimen>
+    <dimen name="oneDP">1dp</dimen>
+    <dimen name="twoDP">2dp</dimen>
+    <dimen name="twoPointFiveDP">2.5dp</dimen>
+    <dimen name="threeDP">3dp</dimen>
+    <dimen name="fiveDP">5dp</dimen>
+    <dimen name="sixDP">6dp</dimen>
+    <dimen name="sevenDP">7dp</dimen>
+    <dimen name="eightDP">8dp</dimen>
+    <dimen name="nineDP">9dp</dimen>
+    <dimen name="tenDP">10dp</dimen>
+    <dimen name="fifteenDP">15dp</dimen>
+    <dimen name="twentyDP">20dp</dimen>
+    <dimen name="twentyfiveDP">25dp</dimen>
+    <dimen name="thirtyDP">30dp</dimen>
+    <dimen name="thirtyfiveDP">35dp</dimen>
+    <dimen name="fortyDp">40dp</dimen>
+    <dimen name="forty_fiveDp">45dp</dimen>
+    <dimen name="fiftyDP">50dp</dimen>
+    <dimen name="fiftyfiveDP">55dp</dimen>
+    <dimen name="sixtyDP">60dp</dimen>
+    <dimen name="seventyDP">70dp</dimen>
+    <dimen name="eightyDP">80dp</dimen>
+    <dimen name="ninetyDP">90dp</dimen>
+    <dimen name="hundredDP">100dp</dimen>
+    <dimen name="oneTwentyDP">120dp</dimen>
+    <dimen name="oneThirtyDP">130dp</dimen>
+    <dimen name="oneThirtyFiveDP">135dp</dimen>
+    <dimen name="oneFourtyDP">140dp</dimen>
+    <dimen name="oneFiftytyDP">150dp</dimen>
+    <dimen name="oneSixtyDp">160dp</dimen>
+    <dimen name="oneSeventyDp">170dp</dimen>
+    <dimen name="oneSeventyFiveDp">170dp</dimen>
+
+    <!--TextSizes-->
+    <dimen name="textSizeXXXSmall">9dp</dimen>
+    <dimen name="textSizeXXSmall">10dp</dimen>
+    <dimen name="textSizeXSmall">11dp</dimen>
+    <dimen name="textSizeSmall">12dp</dimen>
+    <dimen name="textSizeSemiMedium">13dp</dimen>
+    <dimen name="textSizeMedium">14dp</dimen>
+    <dimen name="textSizeSemiLarge">15dp</dimen>
+    <dimen name="textSizeLarge">16dp</dimen>
+    <dimen name="textSizeXLarge">17dp</dimen>
+    <dimen name="textSizeXXLarge">18dp</dimen>
+    <dimen name="threeHundred">300dp</dimen>
+
+</resources>
